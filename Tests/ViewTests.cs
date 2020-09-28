@@ -37,7 +37,7 @@ namespace MantisView.Tests
             _viewPage.PreencheFiltro("0004631");
             _viewPage.ClickFiltro();
             Assert.AreEqual("ID", _viewPage.FiltroSucess());
-            Thread.Sleep(2000);
+            
     
             
         }
@@ -49,7 +49,7 @@ namespace MantisView.Tests
             _viewPage.ClickFiltro();
             _viewPage.AbrirIssue();
             Assert.AreEqual("0004631", _viewPage.ValidaIssue());
-            Thread.Sleep(2000);
+           
         }
     }
 }
