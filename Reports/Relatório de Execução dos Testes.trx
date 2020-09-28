@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="72d2e2e4-ba9d-4c37-b289-b865819363d0" name="yuria@LAPTOP-NACOGLLG 2020-09-27 18:59:10" runUser="LAPTOP-NACOGLLG\yuria" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2020-09-27T18:59:10.2813489-03:00" queuing="2020-09-27T18:59:10.2813511-03:00" start="2020-09-27T18:59:00.4457328-03:00" finish="2020-09-27T19:00:51.0122575-03:00" />
+  <TestSettings name="default" id="524ffc65-62c3-42f0-bf0f-2338abc2bf22">
+    <Deployment runDeploymentRoot="yuria_LAPTOP-NACOGLLG_2020-09-27_18_59_10" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="0e889ae0-60dc-4b5f-867b-cf0a71ea63e0" testId="e9a2dd6d-2c0e-03c2-6d11-428e4b23b623" testName="LoginInvalido" computerName="LAPTOP-NACOGLLG" duration="00:00:08.5134040" startTime="2020-09-27T18:59:10.0000000-03:00" endTime="2020-09-27T18:59:18.0000000-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0e889ae0-60dc-4b5f-867b-cf0a71ea63e0" />
+    <UnitTestResult executionId="a9edb337-af99-452b-90f2-357d77250242" testId="ab929c14-3066-d204-4683-063249cc5370" testName="EditContaSucesso" computerName="LAPTOP-NACOGLLG" duration="00:00:09.1959500" startTime="2020-09-27T19:00:03.0000000-03:00" endTime="2020-09-27T19:00:12.0000000-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a9edb337-af99-452b-90f2-357d77250242" />
+    <UnitTestResult executionId="627f36e3-7296-45e9-b0c3-ad4278e594c5" testId="0b1740b2-f476-bf45-f316-23c4a27a94ce" testName="FiltrarIssue" computerName="LAPTOP-NACOGLLG" duration="00:00:12.8651480" startTime="2020-09-27T19:00:24.0000000-03:00" endTime="2020-09-27T19:00:37.0000000-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="627f36e3-7296-45e9-b0c3-ad4278e594c5" />
+    <UnitTestResult executionId="775f846c-b167-4005-8eed-ab85efb52fa1" testId="2ea8af14-3f37-6291-7eb3-0e8a8b40c0f7" testName="LogoutSucess" computerName="LAPTOP-NACOGLLG" duration="00:00:09.0191950" startTime="2020-09-27T18:59:18.0000000-03:00" endTime="2020-09-27T18:59:27.0000000-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="775f846c-b167-4005-8eed-ab85efb52fa1" />
+    <UnitTestResult executionId="c2b294d6-3ade-4810-90ab-68596434e7df" testId="f948352a-ef40-e89a-841b-9f71ca6135d2" testName="EmailInvalido" computerName="LAPTOP-NACOGLLG" duration="00:00:11.9286260" startTime="2020-09-27T19:00:12.0000000-03:00" endTime="2020-09-27T19:00:24.0000000-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c2b294d6-3ade-4810-90ab-68596434e7df" />
+    <UnitTestResult executionId="913a4ad8-e3e5-4929-a626-2aa0f69f9007" testId="ccb01066-fa45-7112-1532-84ad475d9dfc" testName="VisualizarIssue" computerName="LAPTOP-NACOGLLG" duration="00:00:13.5414380" startTime="2020-09-27T19:00:37.0000000-03:00" endTime="2020-09-27T19:00:50.0000000-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="913a4ad8-e3e5-4929-a626-2aa0f69f9007" />
+    <UnitTestResult executionId="363bbf52-8eb5-46f4-8542-03d9b9abe23d" testId="cb026cf1-eb6f-ebf2-9183-83924df651bc" testName="AddPerfilSucess" computerName="LAPTOP-NACOGLLG" duration="00:00:12.3117490" startTime="2020-09-27T18:59:51.0000000-03:00" endTime="2020-09-27T19:00:03.0000000-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="363bbf52-8eb5-46f4-8542-03d9b9abe23d" />
+    <UnitTestResult executionId="cee09cd8-ae50-4cfc-8307-4e4d73d1e2eb" testId="0bb3d148-4ace-2fc0-b875-8966526610d8" testName="ReportIssueFalha" computerName="LAPTOP-NACOGLLG" duration="00:00:10.0859780" startTime="2020-09-27T18:59:41.0000000-03:00" endTime="2020-09-27T18:59:51.0000000-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="cee09cd8-ae50-4cfc-8307-4e4d73d1e2eb" />
+    <UnitTestResult executionId="86594e17-c5ad-4290-9238-ed062af1044b" testId="46618731-feed-1c03-4f91-6a7317b9f69d" testName="LoginComSucesso" computerName="LAPTOP-NACOGLLG" duration="00:00:09.0463480" startTime="2020-09-27T18:59:01.0000000-03:00" endTime="2020-09-27T18:59:10.0000000-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="86594e17-c5ad-4290-9238-ed062af1044b" />
+    <UnitTestResult executionId="c68d3bc4-dcc6-4e84-ab05-f5a510d81758" testId="a08a740e-b3d1-765a-2362-8d43df50d948" testName="ReportIssueComSucess" computerName="LAPTOP-NACOGLLG" duration="00:00:13.2644550" startTime="2020-09-27T18:59:27.0000000-03:00" endTime="2020-09-27T18:59:41.0000000-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c68d3bc4-dcc6-4e84-ab05-f5a510d81758" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="EmailInvalido" storage="c:\qafullstack\mantis-net\bin\debug\netcoreapp3.1\mantis-net.dll" id="f948352a-ef40-e89a-841b-9f71ca6135d2">
+      <Execution id="c2b294d6-3ade-4810-90ab-68596434e7df" />
+      <TestMethod codeBase="C:\qafullstack\mantis-net\bin\Debug\netcoreapp3.1\mantis-net.dll" adapterTypeName="executor://nunit3testexecutor/" className="MantisView.Tests.MyAccountTests" name="EmailInvalido" />
+    </UnitTest>
+    <UnitTest name="AddPerfilSucess" storage="c:\qafullstack\mantis-net\bin\debug\netcoreapp3.1\mantis-net.dll" id="cb026cf1-eb6f-ebf2-9183-83924df651bc">
+      <Execution id="363bbf52-8eb5-46f4-8542-03d9b9abe23d" />
+      <TestMethod codeBase="C:\qafullstack\mantis-net\bin\Debug\netcoreapp3.1\mantis-net.dll" adapterTypeName="executor://nunit3testexecutor/" className="MantisView.Tests.MyAccountTests" name="AddPerfilSucess" />
+    </UnitTest>
+    <UnitTest name="ReportIssueFalha" storage="c:\qafullstack\mantis-net\bin\debug\netcoreapp3.1\mantis-net.dll" id="0bb3d148-4ace-2fc0-b875-8966526610d8">
+      <Execution id="cee09cd8-ae50-4cfc-8307-4e4d73d1e2eb" />
+      <TestMethod codeBase="C:\qafullstack\mantis-net\bin\Debug\netcoreapp3.1\mantis-net.dll" adapterTypeName="executor://nunit3testexecutor/" className="MantisReport.tests.ReportTest" name="ReportIssueFalha" />
+    </UnitTest>
+    <UnitTest name="FiltrarIssue" storage="c:\qafullstack\mantis-net\bin\debug\netcoreapp3.1\mantis-net.dll" id="0b1740b2-f476-bf45-f316-23c4a27a94ce">
+      <Execution id="627f36e3-7296-45e9-b0c3-ad4278e594c5" />
+      <TestMethod codeBase="C:\qafullstack\mantis-net\bin\Debug\netcoreapp3.1\mantis-net.dll" adapterTypeName="executor://nunit3testexecutor/" className="MantisView.Tests.ViewTests" name="FiltrarIssue" />
+    </UnitTest>
+    <UnitTest name="LoginComSucesso" storage="c:\qafullstack\mantis-net\bin\debug\netcoreapp3.1\mantis-net.dll" id="46618731-feed-1c03-4f91-6a7317b9f69d">
+      <Execution id="86594e17-c5ad-4290-9238-ed062af1044b" />
+      <TestMethod codeBase="C:\qafullstack\mantis-net\bin\Debug\netcoreapp3.1\mantis-net.dll" adapterTypeName="executor://nunit3testexecutor/" className="MantisLogin.tests.LoginTests" name="LoginComSucesso" />
+    </UnitTest>
+    <UnitTest name="EditContaSucesso" storage="c:\qafullstack\mantis-net\bin\debug\netcoreapp3.1\mantis-net.dll" id="ab929c14-3066-d204-4683-063249cc5370">
+      <Execution id="a9edb337-af99-452b-90f2-357d77250242" />
+      <TestMethod codeBase="C:\qafullstack\mantis-net\bin\Debug\netcoreapp3.1\mantis-net.dll" adapterTypeName="executor://nunit3testexecutor/" className="MantisView.Tests.MyAccountTests" name="EditContaSucesso" />
+    </UnitTest>
+    <UnitTest name="LogoutSucess" storage="c:\qafullstack\mantis-net\bin\debug\netcoreapp3.1\mantis-net.dll" id="2ea8af14-3f37-6291-7eb3-0e8a8b40c0f7">
+      <Execution id="775f846c-b167-4005-8eed-ab85efb52fa1" />
+      <TestMethod codeBase="C:\qafullstack\mantis-net\bin\Debug\netcoreapp3.1\mantis-net.dll" adapterTypeName="executor://nunit3testexecutor/" className="MantisLogin.tests.LoginTests" name="LogoutSucess" />
+    </UnitTest>
+    <UnitTest name="LoginInvalido" storage="c:\qafullstack\mantis-net\bin\debug\netcoreapp3.1\mantis-net.dll" id="e9a2dd6d-2c0e-03c2-6d11-428e4b23b623">
+      <Execution id="0e889ae0-60dc-4b5f-867b-cf0a71ea63e0" />
+      <TestMethod codeBase="C:\qafullstack\mantis-net\bin\Debug\netcoreapp3.1\mantis-net.dll" adapterTypeName="executor://nunit3testexecutor/" className="MantisLogin.tests.LoginTests" name="LoginInvalido" />
+    </UnitTest>
+    <UnitTest name="VisualizarIssue" storage="c:\qafullstack\mantis-net\bin\debug\netcoreapp3.1\mantis-net.dll" id="ccb01066-fa45-7112-1532-84ad475d9dfc">
+      <Execution id="913a4ad8-e3e5-4929-a626-2aa0f69f9007" />
+      <TestMethod codeBase="C:\qafullstack\mantis-net\bin\Debug\netcoreapp3.1\mantis-net.dll" adapterTypeName="executor://nunit3testexecutor/" className="MantisView.Tests.ViewTests" name="VisualizarIssue" />
+    </UnitTest>
+    <UnitTest name="ReportIssueComSucess" storage="c:\qafullstack\mantis-net\bin\debug\netcoreapp3.1\mantis-net.dll" id="a08a740e-b3d1-765a-2362-8d43df50d948">
+      <Execution id="c68d3bc4-dcc6-4e84-ab05-f5a510d81758" />
+      <TestMethod codeBase="C:\qafullstack\mantis-net\bin\Debug\netcoreapp3.1\mantis-net.dll" adapterTypeName="executor://nunit3testexecutor/" className="MantisReport.tests.ReportTest" name="ReportIssueComSucess" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="e9a2dd6d-2c0e-03c2-6d11-428e4b23b623" executionId="0e889ae0-60dc-4b5f-867b-cf0a71ea63e0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ab929c14-3066-d204-4683-063249cc5370" executionId="a9edb337-af99-452b-90f2-357d77250242" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0b1740b2-f476-bf45-f316-23c4a27a94ce" executionId="627f36e3-7296-45e9-b0c3-ad4278e594c5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2ea8af14-3f37-6291-7eb3-0e8a8b40c0f7" executionId="775f846c-b167-4005-8eed-ab85efb52fa1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f948352a-ef40-e89a-841b-9f71ca6135d2" executionId="c2b294d6-3ade-4810-90ab-68596434e7df" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ccb01066-fa45-7112-1532-84ad475d9dfc" executionId="913a4ad8-e3e5-4929-a626-2aa0f69f9007" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="cb026cf1-eb6f-ebf2-9183-83924df651bc" executionId="363bbf52-8eb5-46f4-8542-03d9b9abe23d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0bb3d148-4ace-2fc0-b875-8966526610d8" executionId="cee09cd8-ae50-4cfc-8307-4e4d73d1e2eb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="46618731-feed-1c03-4f91-6a7317b9f69d" executionId="86594e17-c5ad-4290-9238-ed062af1044b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a08a740e-b3d1-765a-2362-8d43df50d948" executionId="c68d3bc4-dcc6-4e84-ab05-f5a510d81758" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Resultados que não estão em uma lista" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Todos os resultados carregados" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="10" executed="10" passed="10" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>NUnit Adapter 3.15.1.0: Test execution started&#xD;
+Running all tests in C:\qafullstack\mantis-net\bin\Debug\netcoreapp3.1\mantis-net.dll&#xD;
+   NUnit3TestExecutor converted 10 of 10 NUnit test cases&#xD;
+NUnit Adapter 3.15.1.0: Test execution complete&#xD;
+</StdOut>
+    </Output>
+  </ResultSummary>
+</TestRun>
