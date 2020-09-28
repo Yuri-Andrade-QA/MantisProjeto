@@ -47,7 +47,7 @@ namespace MantisView.Tests
             _accountPage.PreencheEmail("yuritest3@yahoo.com.");
             _accountPage.ConfirmaEdit();
             Assert.AreEqual("Invalid e-mail address.",_accountPage.InvalidaEmail());
-            Thread.Sleep(2000);
+            
         }
 
         [Test]
