@@ -13,7 +13,7 @@ namespace MantisPlus.Common
         {
             var configs = new SessionConfiguration
             {
-                AppHost = "https://mantis-prova.base2.com.br/login_page.php?return=%2Fmy_view_page.php",
+                AppHost = "https://mantis.com.br/login_page.php?return=%2Fmy_view_page.php",
                 SSL = false,
                 Driver = typeof(SeleniumWebDriver),
                 Browser = Coypu.Drivers.Browser.Chrome,
