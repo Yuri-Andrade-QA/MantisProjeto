@@ -22,8 +22,8 @@ namespace MantisReport.tests
             _reportPage= new ReportPage(Browser);
             var loginPage = new LoginPage(Browser);
             loginPage.AcessarPagina();
-            loginPage.PreencheUsuario("yuri.andrade");
-            loginPage.PreencheSenha("33335385yuri");
+            loginPage.PreencheUsuario("********");
+            loginPage.PreencheSenha("**********");
             loginPage.BotaoLogin();
 
         }
