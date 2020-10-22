@@ -23,8 +23,8 @@ namespace MantisLogin.tests
              _loginPage = new LoginPage(Browser);
              _homePage = new HomePage(Browser);
             _loginPage.AcessarPagina();
-            _loginPage.PreencheUsuario("yuri.andrade");
-            _loginPage.PreencheSenha("33335385yuri");
+            _loginPage.PreencheUsuario("*******");
+            _loginPage.PreencheSenha("*********");
             _loginPage.BotaoLogin();
 
             Assert.AreEqual("yuri.andrade", _homePage.UsuarioLogado());
@@ -50,8 +50,8 @@ namespace MantisLogin.tests
              _loginPage = new LoginPage(Browser);
              _homePage = new HomePage(Browser);
             _loginPage.AcessarPagina();
-            _loginPage.PreencheUsuario("yuri.andrade");
-            _loginPage.PreencheSenha("33335385yuri");
+            _loginPage.PreencheUsuario("*******");
+            _loginPage.PreencheSenha("**********");
             _loginPage.BotaoLogin();
             _homePage.Logout();
             Assert.AreEqual("Login",_loginPage.ValidLogout());
