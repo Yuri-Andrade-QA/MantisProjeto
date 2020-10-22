@@ -25,8 +25,8 @@ namespace MantisView.Tests
             _loginPage = new LoginPage(Browser);
             _accountPage = new MyAccountPage(Browser);
             _loginPage.AcessarPagina();
-            _loginPage.PreencheUsuario("yuri.andrade");
-            _loginPage.PreencheSenha("33335385yuri");
+            _loginPage.PreencheUsuario("********");
+            _loginPage.PreencheSenha("**********");
             _loginPage.BotaoLogin();
         }
 
